@@ -1,1 +1,1 @@
-This game called breakout like this one, https://elgoog.im/breakout/  I wrote it in java eclipse. There is two files, breakout and breakout extensin. In extension file I add some beautiful features, used multi threading, this way game beacame more attracive for players.
+This game called breakout.(looks like this game: https://elgoog.im/breakout/ )  I wrote it in java eclipse. There is two files, breakout and breakout extensin. In extension file I add some beautiful features, used multi threading, this way game beacame more attracive for players.
